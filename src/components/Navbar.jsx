@@ -38,7 +38,7 @@ function Navbar() {
       zIndex="11"
     >
       <Link href="/">
-        <Image src="./publico/Logo.png" alt="Logo" w="80px" />
+        <Image src="./publico/Logo.png" alt="Logo" w="100px" />
       </Link>
 
       <Box>

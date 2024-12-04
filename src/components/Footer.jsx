@@ -54,7 +54,7 @@ function Footer() {
             alignItems={"center"}
             justifyContent={"center"}
           >
-            <Image src="./publico/Logo.png" alt="Logo" width="110px" />
+            <Image src="./publico/Logo.png" alt="Logo" width="180px" />
           </GridItem>
           <GridItem height="100%" bg="white" />
           <GridItem
@@ -84,7 +84,7 @@ function Footer() {
               Todos los derechos reservados ©{currentYear}
               </Text>
               <Text textAlign="center" color="gray">
-                <strong>CM PERFUMS</strong>
+                <strong>CM PERFUM</strong>
               </Text>
             </Flex>
           </GridItem>
@@ -95,7 +95,7 @@ function Footer() {
             <Image
               src="./publico/Logo.png"
               alt="Logo"
-              width="100px"
+              width="160px"
               mb="24px"
             />
           </Flex>
@@ -148,7 +148,7 @@ function Footer() {
             Todos los derechos reservados ©{currentYear}
             </Text>
             <Text textAlign="center" color="gray">
-              <strong>CM PERFUMS</strong>
+              <strong>CM PERFUM</strong>
             </Text>
           </Flex>
         </Flex>
